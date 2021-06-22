@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HolaMundo</string>
+    <string name="button_login">iniciar sesión</string>
+    <string name="checkbox_deporte">Deporte</string>
+    <string name="checkbox_video">Video Juegos</string>
+    <string name="radiobutton_mujer">Mujer</string>
+    <string name="radiobutton_hombre">Hombre</string>
+    <string name="radiobutton_indefinido">Indefinido</string>
+    <string name="button_uno">boton 1</string>
+    <string name="textview_dos">TEXTO 2</string>
+</resources>
